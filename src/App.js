@@ -13,9 +13,7 @@ function App() {
       <RowPost url={originals} title='Netflix Originals '/>
       <RowPost url={action} title='Action' isSmall />
       <RowPost url={ComedyMovies} title='comedyMovies' isSmall />
-      {/* <RowPost url={HorrorMovies} title='Horrormovies' isSmall /> */}
       <RowPost url={ActionMovies} title='ActionMovies' isSmall />
-      {/* <RowPost url={RomanceMovies} title='RomnceMovies' isSmall /> */}
 
 
 

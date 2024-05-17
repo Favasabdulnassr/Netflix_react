@@ -14,7 +14,7 @@ function RowPost(props) {
 
       SetMovies(response.data.results)
 
-    })
+    })  
 
   })
   return (
